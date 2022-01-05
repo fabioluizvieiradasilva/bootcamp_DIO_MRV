@@ -1,0 +1,17 @@
+
+.dark-mode{
+    background-color: black;    
+}
+
+.dark-mode h1{
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.dark-mode button{
+    color: black;
+    background-color: whitesmoke;
+    width: 100px;
+    height: 60px;
+    border-radius: 50%;
+}
